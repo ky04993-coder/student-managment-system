@@ -39,3 +39,10 @@ This project was created to practice C++ programming, data management, functions
 ## Author
 
 Kunal
+## Screenshots
+
+### Main Menu
+![Main Menu](2.png)
+
+### Program Output
+![Program Output](3.png)
